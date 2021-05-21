@@ -1,5 +1,5 @@
 # Processor-Systems_AVR-Interrupts_Assembly
-This Assembly project uses timer interrupts to create square waves and send data when uploaded to the ATmega324PB board (AVR Microcontroller). The two main files, along with descriptions, are:
+This Assembly project uses timer interrupts to create square waves and send data between ports when uploaded to the ATmega324PB board (AVR Microcontroller). The two main files, along with descriptions, are:
 
 # Activity 1
 Write a program to get data from Port B and send it to Port Acontinuously while an interrupt will do the following: Timer0 interrupt to create a square wave of 3kHz on PortDwhile sending data from PORTB to PORTA
